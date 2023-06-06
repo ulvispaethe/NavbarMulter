@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    border: 1px solid;
+}
+.navbarleft{
+    img{
+        width: 10%;
+    }
+}
+.navbarright{
+
+    ul{
+
+        display: flex;
+        gap: 20px;
+    }
+}
